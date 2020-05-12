@@ -1,0 +1,1 @@
+cmd /c ghci -i "%~dp0UP891550.hs"
